@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "title": "Ambient Chill",
+    "artist": "Relaxing Sounds",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "thumbnail": "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?w=150",
+    "duration": 372
+  },
+  {
+    "id": "2",
+    "title": "Techno Beat",
+    "artist": "Rhythm Lab",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "thumbnail": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=150",
+    "duration": 423
+  },
+  {
+    "id": "3",
+    "title": "Sailor (Acoustic Original)",
+    "artist": "The Seafarers",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+    "thumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=150",
+    "duration": 302
+  },
+  {
+    "id": "4",
+    "title": "Birds (Whistling Echoes)",
+    "artist": "Skyline Echo",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+    "thumbnail": "https://images.unsplash.com/photo-1452570053594-1b985d6ea890?w=150",
+    "duration": 302
+  },
+  {
+    "id": "5",
+    "title": "Deep Focus",
+    "artist": "Mindfulness Ensemble",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+    "thumbnail": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=150",
+    "duration": 361
+  },
+  {
+    "id": "6",
+    "title": "Summer Days",
+    "artist": "Acoustic Sunsets",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+    "thumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=150",
+    "duration": 412
+  },
+  {
+    "id": "7",
+    "title": "Blinding Lights",
+    "artist": "Retro Synthesizer",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+    "thumbnail": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=150",
+    "duration": 322
+  },
+  {
+    "id": "8",
+    "title": "Shape of You (Instrumental Lounge)",
+    "artist": "Loop Masters",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+    "thumbnail": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=150",
+    "duration": 381
+  },
+  {
+    "id": "9",
+    "title": "Perfect (Strings Edition)",
+    "artist": "Symphony Orchestra",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+    "thumbnail": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?w=150",
+    "duration": 334
+  },
+  {
+    "id": "10",
+    "title": "Bad Habits",
+    "artist": "Rhythm Club",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+    "thumbnail": "https://images.unsplash.com/photo-1487180142328-0c4e37023af5?w=150",
+    "duration": 355
+  }
+]
